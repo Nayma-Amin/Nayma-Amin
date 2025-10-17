@@ -27,7 +27,7 @@
 
 ---
 
-### 👩‍💻🧑 Technologies I Learning
+### 👩‍💻🧑 Technologies I Am Learning
 
 <p align="left" style="display:flex;gap:10px;flex-wrap:wrap;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/></a>
