@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 ME AND MYSELF 😃
 
 - 🎓 **CSE Graduate** at East West University
 - 👩‍💻 Passionate about **Web && App Development** — exploring projects
@@ -27,18 +27,15 @@
 
 ---
 
-### 🧑‍💻 Technologies I Explore
+### 👩‍💻🧑 Technologies I Learning
 
-<!-- Frontend Developer -->
 <p align="left" style="display:flex;gap:10px;flex-wrap:wrap;">
-  <!-- Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="36" height="36"/></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="36" height="36"/></a>
   <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"/></a>
-  <!-- Frameworks -->
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="36" height="36"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="36" height="36"/></a>
