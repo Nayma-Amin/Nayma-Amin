@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <b>Passionate about algorithms, solving real world problems, creating designs, system and technologies.</b>
+  <b>Passionate about algorithms, solving real world problems, creating designs, systems and technologies.</b>
 </p>
 
 ---
