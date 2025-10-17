@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:naymaaminnishy22@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=black" alt="Email"/></a>
-  <a href="https://linkedin.com/in/tafsiruzzaman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38"/></a>
+  <a href="www.linkedin.com/in/nayma-amin-nishy-b1260532b" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38"/></a>
   <a href="https://leetcode.com/u/tafsiruzzaman/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="28" width="38"/></a>
   <a href="https://codeforces.com/profile/tafsiruzzaman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="28" width="38"/></a>
   <a href="https://www.codechef.com/users/tafsiruzzaman" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" alt="CodeChef" height="28" width="38" style="filter: invert(0.7);"/></a>
