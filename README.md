@@ -12,11 +12,12 @@ With a vision and mission to create something innovative.
 🤝 Passionate about solving programming challenges and creating useful apps
 
 ---
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/nayma-amin/) | [GitHub](https://github.com/Nayma-Amin)
+
+---
 
 ## 🧑‍💻 Tech & Tools
 Python | Java | JavaScript | React | Flask | TailwindCSS | Node.js | Firebase | Git | Linux
 
 ---
-
-## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/nayma-amin/) | [GitHub](https://github.com/Nayma-Amin)
