@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <b>Passionate about algorithms, solving real worl problems, creating designs and technologies.</b>
+  <b>Passionate about algorithms, solving real world problems, creating designs, system and technologies.</b>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ### 🚀 About Me
 
 - 🎓 **CSE Graduate** at East West University
-- 👩‍💻 Enthusiastic about **Web && App Development** — exploring projects
+- 👩‍💻 Passionate about **Web && App Development** — exploring projects
 - 🤝 Eager to explore the dynamic world of software engineering and add novel projects
 
 ---
