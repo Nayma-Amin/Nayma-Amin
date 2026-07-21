@@ -22,7 +22,7 @@
 ### 🚀 ME AND MYSELF 😃
 
 - 🎓 **CSE Graduate** at East West University
-- 👩‍💻 Passionate about **Web && App Development** — exploring projects
+- 👩‍💻 Passionate about **Web & App Development** — exploring projects
 - 🤝 Eager to explore the dynamic world of software engineering and add novel projects
 
 ---
