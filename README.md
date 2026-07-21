@@ -65,9 +65,13 @@
 
 ---
 
-### 📊 GitHub Stats
+## 💻 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayma-Amin&show_icons=true&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayma-Amin&layout=compact" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nayma-Amin&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nayma-Amin&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nayma-Amin&theme=github_dark" width="49%" />
 </p>
